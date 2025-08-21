@@ -6,11 +6,13 @@
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 
-This is a demo project of an e-commerce store for electronic gadgets. It is built with modern web technologies and serves as a portfolio piece.
+This project is a comprehensive e-commerce platform designed to showcase a wide range of electronic gadgets, including phones, tablets, and accessories. It emphasizes a user-friendly experience with intuitive navigation, detailed product views, and essential e-commerce functionalities like shopping cart management and a favorites list. The application is built with a strong focus on modern web development practices, ensuring responsiveness across devices and offering a dark mode for enhanced user comfort.
 
 ## 🚀 Live Demo
 
 [Link to live demo](http://www.nice-gadgets-store.podolskiy.dev)
+
+Project Link: [GitHub](https://github.com/syavaYki/nice-gadget-store-demo)
 
 ## 📸 Screenshot
 
@@ -67,7 +69,7 @@ To get a local copy up and running, follow these simple steps.
 
 To run the application with a different backend host, you need to create a `.env` file in the root of the project and add the following variable:
 
-```
+```sh
 VITE_API_HOST=your_api_host_url
 ```
 
@@ -118,5 +120,3 @@ This project is licensed under the **GNU General Public License v3.0**. See the 
 ## 👤 Contact
 
 [Seva Podolskiy] - [svyatoslav.podolskiy@gmail.com](mailto:svyatoslav.podolskiy@gmail.com)
-
-Project Link: [GitHub](https://github.com/syavaYki/nice-gadget-store-demo)
