@@ -1,4 +1,6 @@
 module.exports = {
-  extends: "@mate-academy/stylelint-config",
-  rules: {}
+  rules: {},
+};
+module.exports = {
+  customSyntax: 'postcss-scss',
 };
