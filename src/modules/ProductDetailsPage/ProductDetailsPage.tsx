@@ -37,7 +37,7 @@ export const ProductDetailsPage: React.FC<Props> = ({ category }) => {
 
   const curItemId = getIdFromURL(location);
   const dispatch = useContext(DispatchContext);
-  console.log('3333333333333333333333333333333');
+
   useEffect(
     () => dispatch({ type: 'setShowSearch', payload: false }),
     [dispatch, showSearch],

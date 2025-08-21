@@ -3,4 +3,7 @@ module.exports = {
 };
 module.exports = {
   customSyntax: 'postcss-scss',
+  rules: {
+    'at-rule-no-unknown': null,
+  },
 };

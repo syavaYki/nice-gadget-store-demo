@@ -26,6 +26,7 @@
   }
 }
 
+/* stylelint-disable-next-line selector-class-pattern */
 .buttons_text {
   @extend %buttons;
 
