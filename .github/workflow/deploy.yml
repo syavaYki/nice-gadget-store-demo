@@ -1,11 +1,11 @@
 # Name of your workflow
 name: Build and Push to Deploy Branch
 
-# This action will trigger on every push to the 'master' branch
+# This action will trigger on every push to the 'main' branch
 on:
   push:
     branches:
-      - master
+      - main
 
 # Grant permissions for the GITHUB_TOKEN to push to the repository
 permissions:
@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Check out your repository code from the 'master' branch
+      # Step 1: Check out your repository code from the 'main' branch
       - name: Checkout Code
         uses: actions/checkout@v4
 
