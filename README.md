@@ -10,12 +10,11 @@ This is a demo project of an e-commerce store for electronic gadgets. It is buil
 
 ## 🚀 Live Demo
 
-[Link to live demo](http://www.nice-gadgets-store.podolskiy.dev) (replace with your actual link)
+[Link to live demo](http://www.nice-gadgets-store.podolskiy.dev)
 
 ## 📸 Screenshot
 
 ![Screenshot of the application](/public/img/nice-gadget-demo.png)
-_(Replace this placeholder with a real screenshot of your application)_
 
 ## ✨ Features
 
