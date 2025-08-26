@@ -10,7 +10,7 @@ This project is a comprehensive e-commerce platform designed to showcase a wide 
 
 ## 🚀 Live Demo
 
-[Link to live demo](http://www.nice-gadgets-store.podolskiy.dev)
+[Link to live demo](http://nice-gadgets-store.podolskiy.dev)
 
 Project Link: [GitHub](https://github.com/syavaYki/nice-gadget-store-demo)
 
